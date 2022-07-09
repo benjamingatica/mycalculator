@@ -1,1 +1,1 @@
-# this is a example of module in go :D
+# this is an example of module in go :D
